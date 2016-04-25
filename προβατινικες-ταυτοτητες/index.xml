@@ -3,7 +3,7 @@
   <title></title>
   <link href="index.xml" rel="self" />
   <link href=""/>
-  <updated>2016-04-25T18:33:20Z</updated>
+  <updated>2016-04-25T22:46:49Z</updated>
   <id>index.xml</id>
-  <entry><title type="html">Μελιτζάνα</title><author><name>nil</name></author><link href="nil/λαχανικα-οσπρια/2016/04/25_μελιτζανα.html"/><updated>2016-04-25T18:33:00Z</updated><published>2016-04-25T18:33:00Z</published><id>λαχανικα-οσπρια/2016/04/25_μελιτζανα.html</id><category scheme="/tags/fytorio.html" term="fytorio" label="fytorio"/><category scheme="/tags/plant.html" term="plant" label="plant"/><category scheme="/tags/eggplant.html" term="eggplant" label="eggplant"/>Lisp error in nil: (void-function htmlize-protect-string)
+  <entry><title type="html">Η πανσέληνος του Απριλίου</title><author><name>nil</name></author><link href="nil/blog/2016/04/25_η-πανσεληνος-του-απριλιου.html"/><updated>2016-04-25T22:44:00Z</updated><published>2016-04-25T22:44:00Z</published><id>blog/2016/04/25_η-πανσεληνος-του-απριλιου.html</id>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
