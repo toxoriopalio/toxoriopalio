@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/</loc>
-    <lastmod>2016-04-20T21:37:00Z</lastmod>
+    <lastmod>2016-04-25T16:29:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>nil/index.html</loc>
-    <lastmod>2016-04-20T21:38:06Z</lastmod>
+    <lastmod>2016-04-25T18:08:06Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>nil/tags.html</loc>
-    <lastmod>2016-04-20T21:38:06Z</lastmod>
+    <lastmod>2016-04-25T18:08:06Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,8 +24,20 @@
 
 
   <url>
-    <loc>nil/κοτες/2016/04/20_απολογισμος-κοτετσιου.html</loc>
-    <lastmod>2016-04-20T21:37:00Z</lastmod>
+    <loc>nil/αμπελι/2016/04/25_ραντισματα-αμπελου.html</loc>
+    <lastmod>2016-04-25T16:29:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>nil/κοτες-γαλοπουλες/2016/04/25_ημερολογιο-κλωσσων.html</loc>
+    <lastmod>2016-04-25T16:18:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>nil/φυτα/2016/04/24_πρωτη-και-τελευταια-παγωνια.html</loc>
+    <lastmod>2016-04-24T11:39:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38,24 +50,6 @@
 <url>
     <loc>nil/προβατα/2016/04/19_τυροκομια.html</loc>
     <lastmod>2016-04-19T17:13:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
-    <loc>nil/τυροκομια/2016/04/19_γιαουρτι.html</loc>
-    <lastmod>2016-04-19T17:12:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
-    <loc>nil/γιαουρτι/2016/04/19_τεχνικη-1.html</loc>
-    <lastmod>2016-04-19T17:11:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
-    <loc>nil/γιαουρτι/2016/04/19_τεχνικη-2.html</loc>
-    <lastmod>2016-04-19T17:11:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
