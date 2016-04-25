@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/</loc>
-    <lastmod>2016-04-25T16:29:00Z</lastmod>
+    <lastmod>2016-04-25T18:33:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>nil/index.html</loc>
-    <lastmod>2016-04-25T18:32:40Z</lastmod>
+    <lastmod>2016-04-25T18:33:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>nil/tags.html</loc>
-    <lastmod>2016-04-25T18:32:40Z</lastmod>
+    <lastmod>2016-04-25T18:33:19Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,6 +24,12 @@
 
 
   <url>
+    <loc>nil/λαχανικα-οσπρια/2016/04/25_μελιτζανα.html</loc>
+    <lastmod>2016-04-25T18:33:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>nil/αμπελι/2016/04/25_ραντισματα-αμπελου.html</loc>
     <lastmod>2016-04-25T16:29:00Z</lastmod>
     <changefreq>weekly</changefreq>

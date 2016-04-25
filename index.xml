@@ -3,7 +3,7 @@
   <title></title>
   <link href="index.xml" rel="self" />
   <link href=""/>
-  <updated>2016-04-25T18:32:40Z</updated>
+  <updated>2016-04-25T18:33:19Z</updated>
   <id>index.xml</id>
-  <entry><title type="html">Ραντίσματα Αμπέλου</title><author><name>nil</name></author><link href="nil/αμπελι/2016/04/25_ραντισματα-αμπελου.html"/><updated>2016-04-25T16:29:00Z</updated><published>2016-04-25T16:29:00Z</published><id>αμπελι/2016/04/25_ραντισματα-αμπελου.html</id><category scheme="/tags/ampeli.html" term="ampeli" label="ampeli"/>Lisp error in nil: (void-function htmlize-protect-string)
+  <entry><title type="html">Μελιτζάνα</title><author><name>nil</name></author><link href="nil/λαχανικα-οσπρια/2016/04/25_μελιτζανα.html"/><updated>2016-04-25T18:33:00Z</updated><published>2016-04-25T18:33:00Z</published><id>λαχανικα-οσπρια/2016/04/25_μελιτζανα.html</id><category scheme="/tags/fytorio.html" term="fytorio" label="fytorio"/><category scheme="/tags/plant.html" term="plant" label="plant"/><category scheme="/tags/eggplant.html" term="eggplant" label="eggplant"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
