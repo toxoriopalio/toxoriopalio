@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
+  <title>o-blog-v2</title>
   <link href="index.xml" rel="self" />
   <link href=""/>
-  <updated>2016-05-03T22:40:33Z</updated>
+  <updated>2016-05-03T22:54:39Z</updated>
   <id>index.xml</id>
   <entry><title type="html">Άνοιξη 2016</title><author><name>nil</name></author><link href="nil/εποχιακοι-χειρισμοι/2016/05/03_ανοιξη-2016.html"/><updated>2016-05-03T19:06:00Z</updated><published>2016-05-03T19:06:00Z</published><id>εποχιακοι-χειρισμοι/2016/05/03_ανοιξη-2016.html</id><category scheme="/tags/melissi.html" term="melissi" label="melissi"/><category scheme="/tags/spring.html" term="spring" label="spring"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
