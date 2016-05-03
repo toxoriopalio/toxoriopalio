@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/</loc>
-    <lastmod>2016-04-27T15:29:00Z</lastmod>
+    <lastmod>2016-05-03T19:06:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>nil/index.html</loc>
-    <lastmod>2016-05-03T14:29:47Z</lastmod>
+    <lastmod>2016-05-03T19:07:02Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>nil/tags.html</loc>
-    <lastmod>2016-05-03T14:29:47Z</lastmod>
+    <lastmod>2016-05-03T19:07:03Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,6 +24,18 @@
 
 
   <url>
+    <loc>nil/εποχιακοι-χειρισμοι/2016/05/03_ανοιξη-2016.html</loc>
+    <lastmod>2016-05-03T19:06:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>nil/ασθενειες/2016/05/03_μαυρη-κηλιδα.html</loc>
+    <lastmod>2016-05-03T14:53:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>nil/λαχανικα-οσπρια-σουπες/2016/04/27_ζεστη-σαλατα-με-κολοκυθα-μανιταρια-η-κουκια.html</loc>
     <lastmod>2016-04-27T15:29:00Z</lastmod>
     <changefreq>weekly</changefreq>
