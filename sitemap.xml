@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>/</loc>
-    <lastmod>2016-05-03T19:06:00Z</lastmod>
+    <lastmod>2016-05-04T10:53:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>nil/tags.html</loc>
-    <lastmod>2016-05-03T23:01:11Z</lastmod>
+    <loc>nil/index.html</loc>
+    <lastmod>2016-05-04T10:56:24Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
-    <loc>nil/index.html</loc>
-    <lastmod>2016-05-03T23:01:11Z</lastmod>
+    <loc>nil/tags.html</loc>
+    <lastmod>2016-05-04T10:56:24Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,6 +24,12 @@
 
 
   <url>
+    <loc>nil/προβατα/2016/05/04_αρμεγμα.html</loc>
+    <lastmod>2016-05-04T10:53:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>nil/εποχιακοι-χειρισμοι/2016/05/03_ανοιξη-2016.html</loc>
     <lastmod>2016-05-03T19:06:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -42,7 +48,7 @@
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/blog/2016/04/25_η-πανσεληνος-του-απριλιου.html</loc>
+    <loc>nil/ημερολογιο-blog/2016/04/25_η-πανσεληνος-του-απριλιου.html</loc>
     <lastmod>2016-04-25T22:44:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -168,25 +174,25 @@
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ημερολογιο/2016/04/19_γεναρης.html</loc>
+    <loc>nil/ημερολογιο-blog/2016/04/19_γεναρης.html</loc>
     <lastmod>2016-04-19T16:35:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ημερολογιο/2016/04/19_φλεβαρης.html</loc>
+    <loc>nil/ημερολογιο-blog/2016/04/19_φλεβαρης.html</loc>
     <lastmod>2016-04-19T16:35:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ημερολογιο/2016/04/19_μαρτης.html</loc>
+    <loc>nil/ημερολογιο-blog/2016/04/19_μαρτης.html</loc>
     <lastmod>2016-04-19T16:35:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ημερολογιο/2016/04/19_απριλης.html</loc>
+    <loc>nil/ημερολογιο-blog/2016/04/19_απριλης.html</loc>
     <lastmod>2016-04-19T16:35:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
