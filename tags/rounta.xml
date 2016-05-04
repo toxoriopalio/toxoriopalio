@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="index.xml" rel="self" />
   <link href=""/>
-  <updated>2016-05-04T11:20:44Z</updated>
+  <updated>2016-05-04T11:21:21Z</updated>
   <id>index.xml</id>
   <entry><title type="html">Ρούντα</title><author><name>nil</name></author><link href="nil/αρχειο/2016/04/19_ρουντα.html"/><updated>2016-04-19T16:49:00Z</updated><published>2016-04-19T16:49:00Z</published><id>αρχειο/2016/04/19_ρουντα.html</id><category scheme="/tags/προβατα.html" term="ΠΡΟΒΑΤΑ" label="ΠΡΟΒΑΤΑ"/><category scheme="/tags/rounta.html" term="rounta" label="rounta"/><category scheme="/tags/προβατα-αιωνια-η-μνημη.html" term="ΠΡΟΒΑΤΑ_ΑΙΩΝΙΑ_Η_ΜΝΗΜΗ" label="ΠΡΟΒΑΤΑ_ΑΙΩΝΙΑ_Η_ΜΝΗΜΗ"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
