@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
-    <loc>/</loc>
+    <loc>http://toxoriopalio.github.io/</loc>
     <lastmod>2016-05-04T10:53:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>nil/index.html</loc>
-    <lastmod>2016-05-04T14:46:42Z</lastmod>
+    <loc>http://toxoriopalio.github.io/index.html</loc>
+    <lastmod>2016-05-04T15:01:42Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
-    <loc>nil/tags.html</loc>
-    <lastmod>2016-05-04T14:46:42Z</lastmod>
+    <loc>http://toxoriopalio.github.io/tags.html</loc>
+    <lastmod>2016-05-04T15:01:42Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,193 +24,193 @@
 
 
   <url>
-    <loc>nil/προβατα/2016/05/04_αρμεγμα.html</loc>
+    <loc>http://toxoriopalio.github.io/προβατα/2016/05/04_αρμεγμα.html</loc>
     <lastmod>2016-05-04T10:53:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/εποχιακοι-χειρισμοι/2016/05/03_ανοιξη-2016.html</loc>
+    <loc>http://toxoriopalio.github.io/εποχιακοι-χειρισμοι/2016/05/03_ανοιξη-2016.html</loc>
     <lastmod>2016-05-03T19:06:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ασθενειες/2016/05/03_μαυρη-κηλιδα.html</loc>
+    <loc>http://toxoriopalio.github.io/ασθενειες/2016/05/03_μαυρη-κηλιδα.html</loc>
     <lastmod>2016-05-03T14:53:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/λαχανικα-οσπρια-σουπες/2016/04/27_ζεστη-σαλατα-με-κολοκυθα-μανιταρια-η-κουκια.html</loc>
+    <loc>http://toxoriopalio.github.io/λαχανικα-οσπρια-σουπες/2016/04/27_ζεστη-σαλατα-με-κολοκυθα-μανιταρια-η-κουκια.html</loc>
     <lastmod>2016-04-27T15:29:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ημερολογιο-blog/2016/04/25_η-πανσεληνος-του-απριλιου.html</loc>
+    <loc>http://toxoriopalio.github.io/ημερολογιο-blog/2016/04/25_η-πανσεληνος-του-απριλιου.html</loc>
     <lastmod>2016-04-25T22:44:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/λαχανικα-οσπρια/2016/04/25_μελιτζανα.html</loc>
+    <loc>http://toxoriopalio.github.io/λαχανικα-οσπρια/2016/04/25_μελιτζανα.html</loc>
     <lastmod>2016-04-25T18:33:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/αμπελι/2016/04/25_ραντισματα-αμπελου.html</loc>
+    <loc>http://toxoriopalio.github.io/αμπελι/2016/04/25_ραντισματα-αμπελου.html</loc>
     <lastmod>2016-04-25T16:29:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/κοτες-γαλοπουλες/2016/04/25_ημερολογιο-κλωσσων.html</loc>
+    <loc>http://toxoriopalio.github.io/κοτες-γαλοπουλες/2016/04/25_ημερολογιο-κλωσσων.html</loc>
     <lastmod>2016-04-25T16:18:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/φυτα/2016/04/24_πρωτη-και-τελευταια-παγωνια.html</loc>
+    <loc>http://toxoriopalio.github.io/φυτα/2016/04/24_πρωτη-και-τελευταια-παγωνια.html</loc>
     <lastmod>2016-04-24T11:39:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/μελισσι/2016/04/20_μελισσι-ημερολογιο-2016.html</loc>
+    <loc>http://toxoriopalio.github.io/μελισσι/2016/04/20_μελισσι-ημερολογιο-2016.html</loc>
     <lastmod>2016-04-20T17:08:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/προβατα/2016/04/19_τυροκομια.html</loc>
+    <loc>http://toxoriopalio.github.io/προβατα/2016/04/19_τυροκομια.html</loc>
     <lastmod>2016-04-19T17:13:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/αρχειο/2016/04/19_ρουντα.html</loc>
+    <loc>http://toxoriopalio.github.io/αρχειο/2016/04/19_ρουντα.html</loc>
     <lastmod>2016-04-19T16:49:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/αρχειο/2016/04/19_μπαιος.html</loc>
+    <loc>http://toxoriopalio.github.io/αρχειο/2016/04/19_μπαιος.html</loc>
     <lastmod>2016-04-19T16:49:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/αρχειο/2016/04/19_τινα.html</loc>
+    <loc>http://toxoriopalio.github.io/αρχειο/2016/04/19_τινα.html</loc>
     <lastmod>2016-04-19T16:49:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/αρχειο/2016/04/19_παρασκευας.html</loc>
+    <loc>http://toxoriopalio.github.io/αρχειο/2016/04/19_παρασκευας.html</loc>
     <lastmod>2016-04-19T16:49:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/αρχειο/2016/04/19_σαββας.html</loc>
+    <loc>http://toxoriopalio.github.io/αρχειο/2016/04/19_σαββας.html</loc>
     <lastmod>2016-04-19T16:49:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/αρχειο/2016/04/19_κυριακος.html</loc>
+    <loc>http://toxoriopalio.github.io/αρχειο/2016/04/19_κυριακος.html</loc>
     <lastmod>2016-04-19T16:49:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/αρχειο/2016/04/19_ζορο.html</loc>
+    <loc>http://toxoriopalio.github.io/αρχειο/2016/04/19_ζορο.html</loc>
     <lastmod>2016-04-19T16:49:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/αρχειο/2016/04/19_μαγια.html</loc>
+    <loc>http://toxoriopalio.github.io/αρχειο/2016/04/19_μαγια.html</loc>
     <lastmod>2016-04-19T16:49:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/προβατινικες-ταυτοτητες/2016/04/19_μια.html</loc>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_μια.html</loc>
     <lastmod>2016-04-19T16:48:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/προβατινικες-ταυτοτητες/2016/04/19_μανωλης-χιωτης.html</loc>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_μανωλης-χιωτης.html</loc>
     <lastmod>2016-04-19T16:48:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/προβατινικες-ταυτοτητες/2016/04/19_μεγαλη-τριτη.html</loc>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_μεγαλη-τριτη.html</loc>
     <lastmod>2016-04-19T16:48:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/προβατινικες-ταυτοτητες/2016/04/19_ντολορες.html</loc>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_ντολορες.html</loc>
     <lastmod>2016-04-19T16:47:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/προβατινικες-ταυτοτητες/2016/04/19_κανα.html</loc>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_κανα.html</loc>
     <lastmod>2016-04-19T16:42:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/προβατινικες-ταυτοτητες/2016/04/19_λιαρα.html</loc>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_λιαρα.html</loc>
     <lastmod>2016-04-19T16:42:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ημερολογιο-blog/2016/04/19_γεναρης.html</loc>
+    <loc>http://toxoriopalio.github.io/ημερολογιο-blog/2016/04/19_γεναρης.html</loc>
     <lastmod>2016-04-19T16:35:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ημερολογιο-blog/2016/04/19_φλεβαρης.html</loc>
+    <loc>http://toxoriopalio.github.io/ημερολογιο-blog/2016/04/19_φλεβαρης.html</loc>
     <lastmod>2016-04-19T16:35:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ημερολογιο-blog/2016/04/19_μαρτης.html</loc>
+    <loc>http://toxoriopalio.github.io/ημερολογιο-blog/2016/04/19_μαρτης.html</loc>
     <lastmod>2016-04-19T16:35:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ημερολογιο-blog/2016/04/19_απριλης.html</loc>
+    <loc>http://toxoriopalio.github.io/ημερολογιο-blog/2016/04/19_απριλης.html</loc>
     <lastmod>2016-04-19T16:35:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/τυροκομια/2016/04/19_βουτυρο.html</loc>
+    <loc>http://toxoriopalio.github.io/τυροκομια/2016/04/19_βουτυρο.html</loc>
     <lastmod>2016-04-19T16:15:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/ανθη/2016/04/19_γαρυφαλλο-φλοξακι-2ετες.html</loc>
+    <loc>http://toxoriopalio.github.io/ανθη/2016/04/19_γαρυφαλλο-φλοξακι-2ετες.html</loc>
     <lastmod>2016-04-19T16:14:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>nil/δημηριακα/2015/01/26_σπορα-καλαμποκιου.html</loc>
+    <loc>http://toxoriopalio.github.io/δημηριακα/2015/01/26_σπορα-καλαμποκιου.html</loc>
     <lastmod>2015-01-26T02:13:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>

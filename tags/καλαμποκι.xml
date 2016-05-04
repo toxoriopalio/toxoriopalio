@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Το Χωριό Παλιό</title>
-  <link href="index.xml" rel="self" />
-  <link href=""/>
-  <updated>2016-05-04T14:46:41Z</updated>
-  <id>index.xml</id>
-  <entry><title type="html">Σπορά Καλαμποκιού</title><author><name>nil</name></author><link href="nil/δημηριακα/2015/01/26_σπορα-καλαμποκιου.html"/><updated>2015-01-26T02:13:00Z</updated><published>2015-01-26T02:13:00Z</published><id>δημηριακα/2015/01/26_σπορα-καλαμποκιου.html</id><category scheme="/tags/καλαμποκι.html" term="ΚΑΛΑΜΠΟΚΙ" label="ΚΑΛΑΜΠΟΚΙ"/>Lisp error in nil: (void-function htmlize-protect-string)
+  <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
+  <link href="http://toxoriopalio.github.io"/>
+  <updated>2016-05-04T15:01:41Z</updated>
+  <id>http://toxoriopalio.github.ioindex.xml</id>
+  <entry><title type="html">Σπορά Καλαμποκιού</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/δημηριακα/2015/01/26_σπορα-καλαμποκιου.html"/><updated>2015-01-26T02:13:00Z</updated><published>2015-01-26T02:13:00Z</published><id>δημηριακα/2015/01/26_σπορα-καλαμποκιου.html</id><category scheme="/tags/καλαμποκι.html" term="ΚΑΛΑΜΠΟΚΙ" label="ΚΑΛΑΜΠΟΚΙ"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
