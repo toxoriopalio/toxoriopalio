@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="index.xml" rel="self" />
   <link href=""/>
-  <updated>2016-05-04T11:21:21Z</updated>
+  <updated>2016-05-04T14:42:53Z</updated>
   <id>index.xml</id>
   <entry><title type="html">Σπορά Καλαμποκιού</title><author><name>nil</name></author><link href="nil/δημηριακα/2015/01/26_σπορα-καλαμποκιου.html"/><updated>2015-01-26T02:13:00Z</updated><published>2015-01-26T02:13:00Z</published><id>δημηριακα/2015/01/26_σπορα-καλαμποκιου.html</id><category scheme="/tags/καλαμποκι.html" term="ΚΑΛΑΜΠΟΚΙ" label="ΚΑΛΑΜΠΟΚΙ"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
