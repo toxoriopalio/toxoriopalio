@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://toxoriopalio.github.io/</loc>
-    <lastmod>2016-05-07T17:38:00Z</lastmod>
+    <lastmod>2016-05-08T22:54:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-05-07T17:38:53Z</lastmod>
+    <lastmod>2016-05-08T22:54:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-05-07T17:38:53Z</lastmod>
+    <lastmod>2016-05-08T22:54:43Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,6 +24,18 @@
 
 
   <url>
+    <loc>http://toxoriopalio.github.io/κρεατικα-ψαρια/2016/05/08_η-ωριμανση-του-κρεατος.html</loc>
+    <lastmod>2016-05-08T22:54:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/κρεατικα-ψαρια/2016/05/07_αρνισια-κεμπαπ.html</loc>
+    <lastmod>2016-05-07T21:03:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/κρεατικα-ψαρια/2016/05/07_ινδικο-πουλερικο-κορμα.html</loc>
     <lastmod>2016-05-07T17:38:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -84,7 +96,7 @@
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>http://toxoriopalio.github.io/κοτες-γαλοπουλες/2016/04/25_ημερολογιο-κλωσσων.html</loc>
+    <loc>http://toxoriopalio.github.io/σχετικα-με-τις-κλωσσες/2016/04/25_ημερολογιο-κλωσσων.html</loc>
     <lastmod>2016-04-25T16:18:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
