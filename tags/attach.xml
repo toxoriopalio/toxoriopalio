@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title></title>
+  <link href="http://mousikobostani.github.ioindex.xml" rel="self" />
+  <link href="http://mousikobostani.github.io"/>
+  <updated>2016-05-09T17:51:21Z</updated>
+  <id>http://mousikobostani.github.ioindex.xml</id>
+  <entry><title type="html">Χασαποσέρβικο (Χαλκιάς)</title><author><name>nil</name></author><link href="http://mousikobostani.github.io/ηπειρωτικα/2015/09/01_χασαποσερβικο-χαλκιας.html"/><updated>2015-09-01T12:46:00Z</updated><published>2015-09-01T12:46:00Z</published><id>ηπειρωτικα/2015/09/01_χασαποσερβικο-χαλκιας.html</id><category scheme="/tags/hpeiros.html" term="hpeiros" label="hpeiros"/><category scheme="/tags/xasaposerviko.html" term="xasaposerviko" label="xasaposerviko"/><category scheme="/tags/nikriz.html" term="nikriz" label="nikriz"/><category scheme="/tags/attach.html" term="ATTACH" label="ATTACH"/>Lisp error in nil: (void-function htmlize-protect-string)
+</feed>
