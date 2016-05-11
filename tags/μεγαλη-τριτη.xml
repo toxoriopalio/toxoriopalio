@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
   <link href="http://toxoriopalio.github.io"/>
-  <updated>2016-05-10T11:01:57Z</updated>
+  <updated>2016-05-11T13:58:32Z</updated>
   <id>http://toxoriopalio.github.ioindex.xml</id>
   <entry><title type="html">Μεγάλη Τρίτη</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_μεγαλη-τριτη.html"/><updated>2016-04-19T16:48:00Z</updated><published>2016-04-19T16:48:00Z</published><id>προβατινικες-ταυτοτητες/2016/04/19_μεγαλη-τριτη.html</id><category scheme="/tags/προβατα.html" term="ΠΡΟΒΑΤΑ" label="ΠΡΟΒΑΤΑ"/><category scheme="/tags/προβατα-εν-ζωη.html" term="ΠΡΟΒΑΤΑ_ΕΝ_ΖΩΗ" label="ΠΡΟΒΑΤΑ_ΕΝ_ΖΩΗ"/><category scheme="/tags/μεγαλη-τριτη.html" term="ΜΕΓΑΛΗ_ΤΡΙΤΗ" label="ΜΕΓΑΛΗ_ΤΡΙΤΗ"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
