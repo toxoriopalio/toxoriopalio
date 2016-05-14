@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://toxoriopalio.github.io/</loc>
-    <lastmod>2016-05-12T16:33:00Z</lastmod>
+    <lastmod>2016-05-14T19:01:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-05-12T16:34:47Z</lastmod>
+    <lastmod>2016-05-14T19:03:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-05-12T16:34:47Z</lastmod>
+    <lastmod>2016-05-14T19:03:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,6 +24,30 @@
 
 
   <url>
+    <loc>http://toxoriopalio.github.io/μελισσι/2016/05/14_μελισσι-ημερολογιο-2016.html</loc>
+    <lastmod>2016-05-14T19:01:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/μελισσι/2016/05/14_επιθεωρηση-κυψελης.html</loc>
+    <lastmod>2016-05-14T16:09:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/αμπελι/2016/05/14_ραντισματα-αμπελου.html</loc>
+    <lastmod>2016-05-14T10:29:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/αμπελι/2016/05/13_συμβουλες-σχετικα-με-την-αμπελουργια.html</loc>
+    <lastmod>2016-05-13T22:50:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/ημερολογιο/2016/05/12_μαιος.html</loc>
     <lastmod>2016-05-12T16:33:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -48,13 +72,13 @@
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>http://toxoriopalio.github.io/ασθενειες/2016/05/11_ωιδιο.html</loc>
+    <loc>http://toxoriopalio.github.io/ασθενειες-αντιμετωπιση/2016/05/11_ωιδιο.html</loc>
     <lastmod>2016-05-11T21:26:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>http://toxoriopalio.github.io/ασθενειες/2016/05/11_περονοσπορος.html</loc>
+    <loc>http://toxoriopalio.github.io/ασθενειες-αντιμετωπιση/2016/05/11_περονοσπορος.html</loc>
     <lastmod>2016-05-11T21:24:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -68,12 +92,6 @@
 <url>
     <loc>http://toxoriopalio.github.io/2015/2016/05/10_μεταγγισεις.html</loc>
     <lastmod>2016-05-10T16:51:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
-    <loc>http://toxoriopalio.github.io/τυροκομια/2016/05/10_κεφιρ.html</loc>
-    <lastmod>2016-05-10T16:05:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -114,7 +132,7 @@
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>http://toxoriopalio.github.io/ασθενειες/2016/05/03_μαυρη-κηλιδα.html</loc>
+    <loc>http://toxoriopalio.github.io/ασθενειες-αντιμετωπιση/2016/05/03_μαυρη-κηλιδα.html</loc>
     <lastmod>2016-05-03T14:53:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -138,12 +156,6 @@
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>http://toxoriopalio.github.io/αμπελι/2016/04/25_ραντισματα-αμπελου.html</loc>
-    <lastmod>2016-04-25T16:29:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
     <loc>http://toxoriopalio.github.io/κλωσσες/2016/04/25_ημερολογιο-κλωσσων.html</loc>
     <lastmod>2016-04-25T16:18:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -152,12 +164,6 @@
 <url>
     <loc>http://toxoriopalio.github.io/φυτα/2016/04/24_πρωτη-και-τελευταια-παγωνια.html</loc>
     <lastmod>2016-04-24T11:39:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
-    <loc>http://toxoriopalio.github.io/μελισσι/2016/04/20_μελισσι-ημερολογιο-2016.html</loc>
-    <lastmod>2016-04-20T17:08:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
