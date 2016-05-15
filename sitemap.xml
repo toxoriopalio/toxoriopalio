@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://toxoriopalio.github.io/</loc>
-    <lastmod>2016-05-14T19:01:00Z</lastmod>
+    <lastmod>2016-05-15T08:33:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-05-14T19:03:00Z</lastmod>
+    <lastmod>2016-05-15T08:33:21Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-05-14T19:03:00Z</lastmod>
+    <lastmod>2016-05-15T08:33:21Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,6 +24,12 @@
 
 
   <url>
+    <loc>http://toxoriopalio.github.io/κλωσσες/2016/05/15_ημερολογιο-κλωσσων.html</loc>
+    <lastmod>2016-05-15T08:33:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/μελισσι/2016/05/14_μελισσι-ημερολογιο-2016.html</loc>
     <lastmod>2016-05-14T19:01:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -152,12 +158,6 @@
 <url>
     <loc>http://toxoriopalio.github.io/λαχανικα-οσπρια/2016/04/25_μελιτζανα.html</loc>
     <lastmod>2016-04-25T18:33:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
-    <loc>http://toxoriopalio.github.io/κλωσσες/2016/04/25_ημερολογιο-κλωσσων.html</loc>
-    <lastmod>2016-04-25T16:18:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
