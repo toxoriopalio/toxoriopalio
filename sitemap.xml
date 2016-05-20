@@ -9,14 +9,14 @@
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-05-20T15:07:28Z</lastmod>
+    <lastmod>2016-05-20T15:08:05Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-05-20T15:07:28Z</lastmod>
+    <lastmod>2016-05-20T15:08:05Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -102,6 +102,12 @@
     <priority>0.6</priority>
   </url>
 <url>
+    <loc>http://toxoriopalio.github.io/προβατα/2016/05/12_αρμεγμα.html</loc>
+    <lastmod>2016-05-12T09:16:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/ασθενειες/2016/05/11_ωιδιο.html</loc>
     <lastmod>2016-05-11T21:26:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,6 +116,12 @@
 <url>
     <loc>http://toxoriopalio.github.io/ασθενειες/2016/05/11_περονοσπορος.html</loc>
     <lastmod>2016-05-11T21:24:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατα/2016/05/11_κουρα.html</loc>
+    <lastmod>2016-05-11T11:20:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
