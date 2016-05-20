@@ -9,14 +9,14 @@
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-05-20T15:08:05Z</lastmod>
+    <lastmod>2016-05-20T15:09:21Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-05-20T15:08:05Z</lastmod>
+    <lastmod>2016-05-20T15:09:21Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -26,6 +26,24 @@
   <url>
     <loc>http://toxoriopalio.github.io/ανθη-αρωματικα/2016/05/20_λαδανια.html</loc>
     <lastmod>2016-05-20T15:04:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/05/20_αναρι.html</loc>
+    <lastmod>2016-05-20T14:59:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/05/20_προβατα-που-μας-εχουν-αφησει.html</loc>
+    <lastmod>2016-05-20T14:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/05/20_γενεαλογικο.html</loc>
+    <lastmod>2016-05-20T14:51:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -194,6 +212,42 @@
 <url>
     <loc>http://toxoriopalio.github.io/φυτα/2016/04/24_πρωτη-και-τελευταια-παγωνια.html</loc>
     <lastmod>2016-04-24T11:39:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_μια.html</loc>
+    <lastmod>2016-04-19T16:48:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_μανωλης-χιωτης.html</loc>
+    <lastmod>2016-04-19T16:48:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_μεγαλη-τριτη.html</loc>
+    <lastmod>2016-04-19T16:48:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_ντολορες.html</loc>
+    <lastmod>2016-04-19T16:47:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_κανα.html</loc>
+    <lastmod>2016-04-19T16:42:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_λιαρα.html</loc>
+    <lastmod>2016-04-19T16:42:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
