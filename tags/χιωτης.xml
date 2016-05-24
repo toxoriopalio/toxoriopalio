@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Το Χωριό Παλιό</title>
+  <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
+  <link href="http://toxoriopalio.github.io"/>
+  <updated>2016-05-24T21:35:12Z</updated>
+  <id>http://toxoriopalio.github.ioindex.xml</id>
+  <entry><title type="html">Μανώλης Χιώτης</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_μανωλης-χιωτης.html"/><updated>2016-04-19T16:48:00Z</updated><published>2016-04-19T16:48:00Z</published><id>προβατινικες-ταυτοτητες/2016/04/19_μανωλης-χιωτης.html</id><category scheme="/tags/χιωτης.html" term="Χιώτης" label="Χιώτης"/>Lisp error in nil: (void-function htmlize-protect-string)
+</feed>
