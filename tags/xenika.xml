@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title></title>
-  <link href="http://mousikobostani.github.ioindex.xml" rel="self" />
-  <link href="http://mousikobostani.github.io"/>
-  <updated>2016-05-09T17:51:32Z</updated>
-  <id>http://mousikobostani.github.ioindex.xml</id>
-  <entry><title type="html">Sârbă ciobănesacă / Pastoral dance - Romanian</title><author><name>nil</name></author><link href="http://mousikobostani.github.io/μουσικες-του-κοσμου/2015/02/27_sarba-ciobanesaca-pastoral-dance-romanian.html"/><updated>2015-02-27T17:26:00Z</updated><published>2015-02-27T17:26:00Z</published><id>μουσικες-του-κοσμου/2015/02/27_sarba-ciobanesaca-pastoral-dance-romanian.html</id><category scheme="/tags/xenika.html" term="xenika" label="xenika"/>Lisp error in nil: (void-function htmlize-protect-string)
-</feed>

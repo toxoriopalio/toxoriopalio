@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Το Μουσικό Μποστάνι</title>
-  <link href="http://mousikobostani.github.ioindex.xml" rel="self" />
-  <link href="http://mousikobostani.github.io"/>
-  <updated>2016-05-25T18:09:40Z</updated>
-  <id>http://mousikobostani.github.ioindex.xml</id>
-  <entry><title type="html">Hexatonic</title><author><name>nil</name></author><link href="http://mousikobostani.github.io/τροποι-δρομοι/2005/06/03_hexatonic.html"/><updated>2005-06-03T12:06:00Z</updated><published>2005-06-03T12:06:00Z</published><id>τροποι-δρομοι/2005/06/03_hexatonic.html</id><category scheme="/tags/dromoi.html" term="dromoi" label="dromoi"/><category scheme="/tags/blues.html" term="blues" label="blues"/><category scheme="/tags/hexatonic.html" term="hexatonic" label="hexatonic"/>Lisp error in nil: (void-function htmlize-protect-string)
-</feed>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Το Μουσικό Μποστάνι</title>
-  <link href="http://mousikobostani.github.ioindex.xml" rel="self" />
-  <link href="http://mousikobostani.github.io"/>
-  <updated>2016-05-25T18:09:54Z</updated>
-  <id>http://mousikobostani.github.ioindex.xml</id>
-  <entry><title type="html">Απόψε στο δικό σου μαχαλά</title><author><name>nil</name></author><link href="http://mousikobostani.github.io/ρεμπετικα/2015/03/01_αποψε-στο-δικο-σου-μαχαλα.html"/><updated>2015-03-01T16:04:00Z</updated><published>2015-03-01T16:04:00Z</published><id>ρεμπετικα/2015/03/01_αποψε-στο-δικο-σου-μαχαλα.html</id><category scheme="/tags/rebetika.html" term="rebetika" label="rebetika"/><category scheme="/tags/xm.html" term="xm" label="xm"/><category scheme="/tags/nikriz.html" term="nikriz" label="nikriz"/><category scheme="/tags/zeibekiko.html" term="zeibekiko" label="zeibekiko"/><category scheme="/tags/9ari.html" term="9ari" label="9ari"/>Lisp error in nil: (void-function htmlize-protect-string)
-</feed>
