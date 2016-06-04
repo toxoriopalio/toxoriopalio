@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://toxoriopalio.github.io/</loc>
-    <lastmod>2016-05-30T23:59:00Z</lastmod>
+    <lastmod>2016-06-04T10:31:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-05-31T09:42:24Z</lastmod>
+    <lastmod>2016-06-04T11:26:22Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-05-31T09:42:24Z</lastmod>
+    <lastmod>2016-06-04T11:26:22Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,6 +24,36 @@
 
 
   <url>
+    <loc>http://toxoriopalio.github.io/λιπανση-εδαφος/2016/06/04_η-λιπανση.html</loc>
+    <lastmod>2016-06-04T10:31:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/φυτοπροστασια-αρρωστιες-ακαρεα-και-αλλα/2016/06/04_σηψη-των-ανθων.html</loc>
+    <lastmod>2016-06-04T09:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/λαχανικα-οσπρια/2016/06/04_κολοκυθια.html</loc>
+    <lastmod>2016-06-04T09:39:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/γατες/2016/06/02_μαυρουλα.html</loc>
+    <lastmod>2016-06-02T19:33:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/γατες/2016/06/02_jerry-η-τζερυ.html</loc>
+    <lastmod>2016-06-02T19:33:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/μελισσι/2016/05/30_συγκεντρωση-πληροφοριων-για-το-μελισσι.html</loc>
     <lastmod>2016-05-30T23:59:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,12 +216,6 @@
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>http://toxoriopalio.github.io/ζωα/2016/05/17_γατες.html</loc>
-    <lastmod>2016-05-17T10:23:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
     <loc>http://toxoriopalio.github.io/κλωσσες/2016/05/15_ημερολογιο-κλωσσων.html</loc>
     <lastmod>2016-05-15T08:33:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -210,7 +234,7 @@
     <priority>0.6</priority>
   </url>
 <url>
-    <loc>http://toxoriopalio.github.io/αμπελι/2016/05/14_ραντισματα-αμπελου.html</loc>
+    <loc>http://toxoriopalio.github.io/αμπελι/2016/05/14_ραντισματα-αμπελου-ημερολογιο.html</loc>
     <lastmod>2016-05-14T10:29:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
