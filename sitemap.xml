@@ -9,14 +9,14 @@
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-06-06T22:20:42Z</lastmod>
+    <lastmod>2016-06-06T22:21:31Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-06-06T22:20:42Z</lastmod>
+    <lastmod>2016-06-06T22:21:31Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -98,6 +98,12 @@
 <url>
     <loc>http://toxoriopalio.github.io/λαχανικα-οσπρια-σουπες/2016/05/24_κολοκυθοκεφτεδες.html</loc>
     <lastmod>2016-05-24T21:26:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατα/2016/05/24_προβατινολαβες.html</loc>
+    <lastmod>2016-05-24T18:08:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -252,6 +258,12 @@
     <priority>0.6</priority>
   </url>
 <url>
+    <loc>http://toxoriopalio.github.io/προβατα/2016/05/12_αρμεγμα.html</loc>
+    <lastmod>2016-05-12T09:16:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/φυτοπροστασια-αρρωστιες-ακαρεα-και-αλλα/2016/05/11_ωιδιο-powdery-mildew.html</loc>
     <lastmod>2016-05-11T21:26:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -260,6 +272,12 @@
 <url>
     <loc>http://toxoriopalio.github.io/φυτοπροστασια-αρρωστιες-ακαρεα-και-αλλα/2016/05/11_περονοσπορος.html</loc>
     <lastmod>2016-05-11T21:24:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατα/2016/05/11_κουρα.html</loc>
+    <lastmod>2016-05-11T11:20:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
