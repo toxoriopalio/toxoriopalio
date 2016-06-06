@@ -9,14 +9,14 @@
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-06-06T22:23:33Z</lastmod>
+    <lastmod>2016-06-06T22:24:36Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-06-06T22:23:33Z</lastmod>
+    <lastmod>2016-06-06T22:24:36Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -188,6 +188,12 @@
 <url>
     <loc>http://toxoriopalio.github.io/ανθη-αρωματικα/2016/05/20_λαδανια.html</loc>
     <lastmod>2016-05-20T15:04:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/05/20_αναρι.html</loc>
+    <lastmod>2016-05-20T14:59:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
