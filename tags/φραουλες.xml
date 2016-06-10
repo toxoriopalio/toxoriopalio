@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
   <link href="http://toxoriopalio.github.io"/>
-  <updated>2016-06-08T18:24:37Z</updated>
+  <updated>2016-06-10T12:40:25Z</updated>
   <id>http://toxoriopalio.github.ioindex.xml</id>
   <entry><title type="html">Φράουλα</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/λαχανικα-οσπρια/2016/05/25_φραουλα.html"/><updated>2016-05-25T12:08:00Z</updated><published>2016-05-25T12:08:00Z</published><id>λαχανικα-οσπρια/2016/05/25_φραουλα.html</id><category scheme="/tags/φυτα.html" term="Φυτά" label="Φυτά"/><category scheme="/tags/φραουλες.html" term="Φράουλες" label="Φράουλες"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
