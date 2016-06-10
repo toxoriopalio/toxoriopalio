@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://toxoriopalio.github.io/</loc>
-    <lastmod>2016-06-10T12:39:00Z</lastmod>
+    <lastmod>2016-06-10T12:48:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-06-10T12:40:26Z</lastmod>
+    <lastmod>2016-06-10T12:48:25Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-06-10T12:40:26Z</lastmod>
+    <lastmod>2016-06-10T12:48:25Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,6 +24,12 @@
 
 
   <url>
+    <loc>http://toxoriopalio.github.io/λαχανικα-οσπρια/2016/06/10_ημερολογιο-λαχανικων-σαλατικων-και-αλλων.html</loc>
+    <lastmod>2016-06-10T12:48:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/blog/2016/06/10_τελη-μαϊου-2016.html</loc>
     <lastmod>2016-06-10T12:39:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,12 +86,6 @@
 <url>
     <loc>http://toxoriopalio.github.io/blog/2016/05/27_o-περονοσπορος-στα-χρονια-της-φλογερας.html</loc>
     <lastmod>2016-05-27T09:55:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
-    <loc>http://toxoriopalio.github.io/λαχανικα-οσπρια/2016/05/26_ημερολογιο-λαχανικων-σαλατικων-και-αλλων.html</loc>
-    <lastmod>2016-05-26T22:10:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
