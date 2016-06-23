@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://toxoriopalio.github.io/</loc>
-    <lastmod>2016-06-22T10:00:00Z</lastmod>
+    <lastmod>2016-06-23T12:09:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-06-22T13:03:53Z</lastmod>
+    <lastmod>2016-06-23T12:14:05Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-06-22T13:03:53Z</lastmod>
+    <lastmod>2016-06-23T12:14:05Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,6 +24,12 @@
 
 
   <url>
+    <loc>http://toxoriopalio.github.io/ορνιθοταυτοτητες/2016/06/23_τερμινατορ-2-η-αλλιως-θα-κανει-αυτη-πλια.html</loc>
+    <lastmod>2016-06-23T12:09:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/ορνιθοταυτοτητες/2016/06/22_le-clossa.html</loc>
     <lastmod>2016-06-22T10:00:00Z</lastmod>
     <changefreq>weekly</changefreq>
