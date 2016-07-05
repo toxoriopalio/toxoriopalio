@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://toxoriopalio.github.io/</loc>
-    <lastmod>2016-07-03T10:58:00Z</lastmod>
+    <lastmod>2016-07-05T12:14:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-07-03T18:26:46Z</lastmod>
+    <lastmod>2016-07-05T12:15:42Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-07-03T18:26:46Z</lastmod>
+    <lastmod>2016-07-05T12:15:42Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -24,6 +24,12 @@
 
 
   <url>
+    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/07/05_λιαρα.html</loc>
+    <lastmod>2016-07-05T12:14:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/blog/2016/07/03_to-χαμομηλι-το-ευεργετικο-και-η-μεγαλη-τριτη.html</loc>
     <lastmod>2016-07-03T10:58:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -457,12 +463,6 @@
   </url>
 <url>
     <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_κανα.html</loc>
-    <lastmod>2016-04-19T16:42:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
-    <loc>http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/04/19_λιαρα.html</loc>
     <lastmod>2016-04-19T16:42:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
