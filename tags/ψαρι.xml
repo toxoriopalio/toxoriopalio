@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Το Χωριό Παλιό</title>
-  <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
-  <link href="http://toxoriopalio.github.io"/>
-  <updated>2016-07-18T18:54:11Z</updated>
-  <id>http://toxoriopalio.github.ioindex.xml</id>
-  <entry><title type="html">Σαρδέλες στα κάρβουνα</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/ψαρι/2016/06/24_σαρδελες-στα-καρβουνα.html"/><updated>2016-06-24T16:20:00Z</updated><published>2016-06-24T16:20:00Z</published><id>ψαρι/2016/06/24_σαρδελες-στα-καρβουνα.html</id><category scheme="/tags/ψαρι.html" term="Ψάρι" label="Ψάρι"/><category scheme="/tags/μαγειρικη.html" term="Μαγειρική" label="Μαγειρική"/>Lisp error in nil: (void-function htmlize-protect-string)
-</feed>
