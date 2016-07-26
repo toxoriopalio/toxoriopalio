@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
   <link href="http://toxoriopalio.github.io"/>
-  <updated>2016-07-26T09:43:01Z</updated>
+  <updated>2016-07-26T09:46:58Z</updated>
   <id>http://toxoriopalio.github.ioindex.xml</id>
   <entry><title type="html">Ζεστή Σαλάτα Με Κολοκύθα-Μανιτάρια Ή Κουκιά</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/λαχανικα-οσπρια-σουπες-λαδερα-σαλατες/2016/07/05_ζεστη-σαλατα-με-κολοκυθα-μανιταρια-η-κουκια.html"/><updated>2016-07-05T16:59:00Z</updated><published>2016-07-05T16:59:00Z</published><id>λαχανικα-οσπρια-σουπες-λαδερα-σαλατες/2016/07/05_ζεστη-σαλατα-με-κολοκυθα-μανιταρια-η-κουκια.html</id><category scheme="/tags/μαγειρικη.html" term="Μαγειρική" label="Μαγειρική"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
