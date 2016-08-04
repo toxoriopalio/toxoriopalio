@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
   <link href="http://toxoriopalio.github.io"/>
-  <updated>2016-08-04T10:13:44Z</updated>
+  <updated>2016-08-04T10:24:40Z</updated>
   <id>http://toxoriopalio.github.ioindex.xml</id>
-  <entry><title type="html">Φράουλα</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/λαχανικα-οσπρια/2016/08/04_φραουλα.html"/><updated>2016-08-04T10:13:00Z</updated><published>2016-08-04T10:13:00Z</published><id>λαχανικα-οσπρια/2016/08/04_φραουλα.html</id><category scheme="/tags/φυτα.html" term="Φυτά" label="Φυτά"/><category scheme="/tags/φραουλες.html" term="Φράουλες" label="Φράουλες"/>Lisp error in nil: (void-function htmlize-protect-string)
+  <entry><title type="html">Μανώλης Χιώτης</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/07/29_μανωλης-χιωτης.html"/><updated>2016-07-29T16:21:00Z</updated><published>2016-07-29T16:21:00Z</published><id>προβατινικες-ταυτοτητες/2016/07/29_μανωλης-χιωτης.html</id><category scheme="/tags/χιωτης.html" term="Χιώτης" label="Χιώτης"/><category scheme="/tags/προβατα.html" term="Πρόβατα" label="Πρόβατα"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
