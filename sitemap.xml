@@ -2,28 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://toxoriopalio.github.io/</loc>
-    <lastmod>2016-08-05T11:56:00Z</lastmod>
+    <lastmod>2016-08-05T12:30:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-08-05T11:56:16Z</lastmod>
+    <lastmod>2016-08-05T13:03:08Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/manifesto.html</loc>
-    <lastmod>2016-08-05T11:56:16Z</lastmod>
+    <lastmod>2016-08-05T13:03:08Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+<url>
+    <loc>http://toxoriopalio.github.io/last.html</loc>
+    <lastmod>2016-08-05T13:03:08Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-08-05T11:56:16Z</lastmod>
+    <lastmod>2016-08-05T13:03:08Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -31,6 +38,18 @@
 
 
   <url>
+    <loc>http://toxoriopalio.github.io/μελισσι/2016/08/05_μικρος-τρυγος-ιουλιοςς-2016.html</loc>
+    <lastmod>2016-08-05T12:30:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/γουρουνι/2016/08/05_τα-τρια-γουρουνακια-και-ο-κακος-ο-λυκος.html</loc>
+    <lastmod>2016-08-05T11:57:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/γουρουνι/2016/08/05_χοιροστασιο-2016.html</loc>
     <lastmod>2016-08-05T11:56:00Z</lastmod>
     <changefreq>weekly</changefreq>
