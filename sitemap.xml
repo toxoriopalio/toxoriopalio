@@ -9,28 +9,35 @@
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-08-05T13:03:08Z</lastmod>
+    <lastmod>2016-08-05T13:05:44Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/manifesto.html</loc>
-    <lastmod>2016-08-05T13:03:08Z</lastmod>
+    <lastmod>2016-08-05T13:05:44Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+<url>
+    <loc>http://toxoriopalio.github.io/search.html</loc>
+    <lastmod>2016-08-05T13:05:44Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/last.html</loc>
-    <lastmod>2016-08-05T13:03:08Z</lastmod>
+    <lastmod>2016-08-05T13:05:44Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-08-05T13:03:08Z</lastmod>
+    <lastmod>2016-08-05T13:05:44Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
