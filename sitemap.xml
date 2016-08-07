@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>http://toxoriopalio.github.io/</loc>
-    <lastmod>2016-08-05T12:30:00Z</lastmod>
+    <lastmod>2016-08-07T10:14:00Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://toxoriopalio.github.io/index.html</loc>
-    <lastmod>2016-08-05T13:17:29Z</lastmod>
+    <lastmod>2016-08-07T10:27:55Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/manifesto.html</loc>
-    <lastmod>2016-08-05T13:17:29Z</lastmod>
+    <lastmod>2016-08-07T10:27:55Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/search.html</loc>
-    <lastmod>2016-08-05T13:17:29Z</lastmod>
+    <lastmod>2016-08-07T10:27:55Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/last.html</loc>
-    <lastmod>2016-08-05T13:17:29Z</lastmod>
+    <lastmod>2016-08-07T10:27:55Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
 <url>
     <loc>http://toxoriopalio.github.io/tags.html</loc>
-    <lastmod>2016-08-05T13:17:29Z</lastmod>
+    <lastmod>2016-08-07T10:27:55Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -45,6 +45,18 @@
 
 
   <url>
+    <loc>http://toxoriopalio.github.io/κλωσσες/2016/08/07_ημερολογιο-κλωσσων.html</loc>
+    <lastmod>2016-08-07T10:14:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
+    <loc>http://toxoriopalio.github.io/σκυλια/2016/08/07_μπελλα.html</loc>
+    <lastmod>2016-08-07T10:14:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+<url>
     <loc>http://toxoriopalio.github.io/μελισσι/2016/08/05_μικρος-τρυγος-ιουλιοςς-2016.html</loc>
     <lastmod>2016-08-05T12:30:00Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -95,12 +107,6 @@
 <url>
     <loc>http://toxoriopalio.github.io/blog/2016/07/26_η-καρακαξα.html</loc>
     <lastmod>2016-07-26T09:33:00Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-<url>
-    <loc>http://toxoriopalio.github.io/κλωσσες/2016/07/06_ημερολογιο-κλωσσων.html</loc>
-    <lastmod>2016-07-06T18:51:00Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

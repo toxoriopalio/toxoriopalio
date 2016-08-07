@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
   <link href="http://toxoriopalio.github.io"/>
-  <updated>2016-08-05T13:17:28Z</updated>
+  <updated>2016-08-07T10:27:53Z</updated>
   <id>http://toxoriopalio.github.ioindex.xml</id>
   <entry><title type="html">Τσιμπούρια, Εσωτερικά παράσιτα και Ψύλλοι</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/σκυλια/2016/06/16_τσιμπουρια-εσωτερικα-παρασιτα-και-ψυλλοι.html"/><updated>2016-06-16T09:34:00Z</updated><published>2016-06-16T09:34:00Z</published><id>σκυλια/2016/06/16_τσιμπουρια-εσωτερικα-παρασιτα-και-ψυλλοι.html</id><category scheme="/tags/σκυλια.html" term="Σκυλιά" label="Σκυλιά"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
