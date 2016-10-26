@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Το Χωριό Παλιό</title>
+  <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
+  <link href="http://toxoriopalio.github.io"/>
+  <updated>2016-10-26T17:30:17Z</updated>
+  <id>http://toxoriopalio.github.ioindex.xml</id>
+  <entry><title type="html">Καλό Φθινόπωρο 2016</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/blog/2016/09/06_καλο-φθινοπωρο-2016.html"/><updated>2016-09-06T15:27:00Z</updated><published>2016-09-06T15:27:00Z</published><id>blog/2016/09/06_καλο-φθινοπωρο-2016.html</id><category scheme="/tags/πρωτοβροχι.html" term="Πρωτοβρόχι" label="Πρωτοβρόχι"/><category scheme="/tags/φθινοπωρο.html" term="Φθινόπωρο" label="Φθινόπωρο"/>Lisp error in nil: (void-function htmlize-protect-string)
+</feed>
