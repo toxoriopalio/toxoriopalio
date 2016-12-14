@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
   <link href="http://toxoriopalio.github.io"/>
-  <updated>2016-12-13T15:43:59Z</updated>
+  <updated>2016-12-14T21:48:10Z</updated>
   <id>http://toxoriopalio.github.ioindex.xml</id>
   <entry><title type="html">Μανώλης Χιώτης</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/προβατινικες-ταυτοτητες/2016/08/14_μανωλης-χιωτης.html"/><updated>2016-08-14T10:14:00Z</updated><published>2016-08-14T10:14:00Z</published><id>προβατινικες-ταυτοτητες/2016/08/14_μανωλης-χιωτης.html</id><category scheme="/tags/χιωτης.html" term="Χιώτης" label="Χιώτης"/><category scheme="/tags/προβατα.html" term="Πρόβατα" label="Πρόβατα"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
