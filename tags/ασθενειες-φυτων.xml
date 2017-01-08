@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
   <link href="http://toxoriopalio.github.io"/>
-  <updated>2017-01-07T10:36:18Z</updated>
+  <updated>2017-01-08T18:18:15Z</updated>
   <id>http://toxoriopalio.github.ioindex.xml</id>
   <entry><title type="html">Σήψη των ανθών</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/φυτοπροστασια-αρρωστιες-ακαρεα-και-αλλα/2016/06/04_σηψη-των-ανθων.html"/><updated>2016-06-04T09:56:00Z</updated><published>2016-06-04T09:56:00Z</published><id>φυτοπροστασια-αρρωστιες-ακαρεα-και-αλλα/2016/06/04_σηψη-των-ανθων.html</id><category scheme="/tags/ασθενειες-φυτων.html" term="Ασθένειες_Φυτών" label="Ασθένειες_Φυτών"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>

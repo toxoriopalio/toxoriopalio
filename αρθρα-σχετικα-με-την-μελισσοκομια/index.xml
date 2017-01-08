@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
   <link href="http://toxoriopalio.github.io"/>
-  <updated>2017-01-07T10:36:28Z</updated>
+  <updated>2017-01-08T18:18:28Z</updated>
   <id>http://toxoriopalio.github.ioindex.xml</id>
-  <entry><title type="html">Ο μάστερ Ιπποκράτης</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/αρθρα/2017/01/02_ο-μαστερ-ιπποκρατης.html"/><updated>2017-01-02T21:29:00Z</updated><published>2017-01-02T21:29:00Z</published><id>αρθρα/2017/01/02_ο-μαστερ-ιπποκρατης.html</id><category scheme="/tags/διατροφη.html" term="Διατροφή" label="Διατροφή"/>Lisp error in nil: (void-function htmlize-protect-string)
+  <entry><title type="html">Η Κούμα</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/σκυλια/2017/01/08_η-κουμα.html"/><updated>2017-01-08T18:25:00Z</updated><published>2017-01-08T18:25:00Z</published><id>σκυλια/2017/01/08_η-κουμα.html</id><category scheme="/tags/σκυλια.html" term="Σκυλιά" label="Σκυλιά"/><category scheme="/tags/κουμα.html" term="Κούμα" label="Κούμα"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
