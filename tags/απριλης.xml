@@ -3,7 +3,7 @@
   <title>Το Χωριό Παλιό</title>
   <link href="http://toxoriopalio.github.ioindex.xml" rel="self" />
   <link href="http://toxoriopalio.github.io"/>
-  <updated>2017-01-08T18:18:15Z</updated>
+  <updated>2017-01-09T18:20:18Z</updated>
   <id>http://toxoriopalio.github.ioindex.xml</id>
   <entry><title type="html">Απρίλης</title><author><name>nil</name></author><link href="http://toxoriopalio.github.io/ημερολογιο/2016/04/19_απριλης.html"/><updated>2016-04-19T16:35:00Z</updated><published>2016-04-19T16:35:00Z</published><id>ημερολογιο/2016/04/19_απριλης.html</id><category scheme="/tags/απριλης.html" term="Απρίλης" label="Απρίλης"/>Lisp error in nil: (void-function htmlize-protect-string)
 </feed>
