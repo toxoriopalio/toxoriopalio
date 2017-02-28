@@ -98,12 +98,58 @@
 
   </header>
   <div class="article-content">
-    <a data-pin-do="embedBoard" data-pin-board-width="400" data-pin-scale-height="240" data-pin-scale-width="80" href="https://fr.pinterest.com/igoumeninja/%25CF%2587%25CF%2589%25CF%2581%25CE%25B9%25CF%258C-%25CF%2580%25CE%25B1%25CE%25BB%25CE%25B9%25CF%258C/"></a>
+    <body>
+<script>
+// be sure this script doesn't mess up anything else on this page
+(function (d, att) {
+  // declare some variables
+  var link, pair, part, i, j, k, n, hazWidget, script;
+  // find all the links on the page
+  link = d.getElementsByTagName('A');
+  // go through them one at a time
+  for (i = 0, n = link.length; i < n; i = i + 1) {
+    // do we have a rev and a class name that matches our pattern?
+    if (link[i][att]) {
+      // split the attribute into individual directives
+      pair = link[i][att].split(' ');
+      // loop through each directive
+      for (j = 0, k = pair.length; j < k; j = j + 1) {
+        // split into parts: first is key, second is value
+        part = pair[j].split('=');
+        // do we have two parts?
+        if (part[0] && part[1]) {
+          // set the attribute on the link
+          link[i].setAttribute(part[0], part[1]);
+          // after this is all done, build a widget
+          if (part[0] === 'data-pin-do') {
+            hazWidget = true;
+          }
+        }
+      }
+    }
+  }
+  // do we need to build a widget?
+  if (hazWidget === true) {
+    // make a script
+    script = d.createElement('SCRIPT');
+    // set the type
+    script.setAttribute('type', 'text/javascript');
+    // set the character set
+    script.setAttribute('charset', 'utf-8');
+    // set the source
+    script.setAttribute('src', '//assets.pinterest.com/js/pinit.js');
+    // carefully append it to the body
+    d.getElementsByTagName('BODY')[0].appendChild(script);
+  }
+// if you would like to use some other attribute instead of rev, change it here
+}(document, 'rev'));
+</script>
+</body>
 
-
-@@html:<p class="text-center">@@ <a data-pin-do="embedBoard" href="http://pinterest.com/pinterest/pin-pets/"> Follow Pinterest Pin pets on Pinterest </a> @@html:</p>@@
-
-<script type="text/javascript">(function(d){  var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');  p.type = 'text/javascript';  p.async = true;  p.src = '//assets.pinterest.com/js/pinit.js';  f.parentNode.insertBefore(p, f);}(document));</script>
+<a class="pinterestWidget"
+rev="data-pin-do=embedBoard data-pin-scale-width=115 data-pin-scale-height=400 data-pin-board-width=720"
+href="https://pinterest.com/pinterest/pin-pets/">
+</a>
 
   </div>
 
@@ -183,7 +229,7 @@
 	      <h1>Τα Τελευταία</h1>
 	      <nav id="archives">
   <ul>
-    <li><a href="../../../blog/2017/02/20_ο-πινακας-για-το-χωριο-παλιο.html">Ο πίνακας για το Χωριό Παλιό</a></li> <li><a href="../../../σκυλια/2017/01/08_η-κουμα.html">Η Κούμα</a></li> <li><a href="../../../σκυλια/2017/01/08_η-μπελλα-μανα.html">Η Μπέλλα μάνα</a></li> <li><a href="../../../αρθρα/2017/01/02_ο-μαστερ-ιπποκρατης.html">Ο μάστερ Ιπποκράτης</a></li> <li><a href="../../../εκπαιδευση/2016/12/22_η-μπελλα-και-η-λετα.html">Η Μπέλλα και η Λέτα</a></li> <li><a href="../../../προβατινικες-ταυτοτητες/2016/12/14_αντριανα.html">Αντριάνα</a></li> <li><a href="../../../αρθρογραφια-σχετικα-με-την-προβατινολογια/2016/12/13_η-γενια-του-2016.html">Η Γενιά του 2016</a></li> <li><a href="../../../ελιες/2016/12/13_ελαιοπαραγωγη-2016.html">Ελαιοπαραγωγή 2016</a></li> <li><a href="../../../δενδρα/2016/11/27_μπολιασμα.html">Μπόλιασμα</a></li> <li><a href="../../../προβατινικες-ταυτοτητες/2016/11/27_σκαλπι.html">Σκάλπι</a></li> <li><a href="../../../οινολογια/2016/11/10_vino-gyras.html">Vino Gyras</a></li> <li><a href="../../../ανθη-αρωματικα-βοτανα/2016/11/03_ματζουρανα.html">Ματζουράνα</a></li> <li><a href="../../../φαρμακα/2016/11/03_προγραμμα-εμβολιασμων.html">Πρόγραμμα Εμβολιασμών</a></li> <li><a href="../../../λαχανικα-οσπρια/2016/09/12_ημερολογιο-λαχανικων-σαλατικων-και-αλλων.html">Ημερολόγιο Λαχανικών, Σαλατικών και άλλων</a></li> <li><a href="../../../blog/2016/09/06_καλο-φθινοπωρο-2016.html">Καλό Φθινόπωρο 2016</a></li> <li><a href="../../../blog/2016/09/04_η-αχλαδομηλια-το-γιασεμι-η-βοκαμπιλια-και-η-ασπρη-τριανταφυλλια.html">Η αχλαδομηλιά. το γιασεμί, η βοκαμπίλια και η άσπρη τριανταφυλλιά</a></li> <li><a href="../../../γατες/2016/08/27_nero.html">Nero</a></li> <li><a href="../../../bostani/2016/08/27_επιθεση-απο-γουρουνια-και-βασκανια.html">Επίθεση απο γουρούνια και βασκανία</a></li> <li><a href="../../../κοτες-γαλοπουλες/2016/08/24_επιλογη-για-σφαξιμο.html">Επιλογή για Σφάξιμο</a></li> <li><a href="../../../κλωσσες/2016/08/24_ημερολογιο-κλωσσων.html">Ημερολόγιο Κλωσσών</a></li> 
+    <li><a href="../../../γλυκα/2017/02/26_νηστισιμο-κεικ-κακαο-πορτοκαλι-μπανανα.html">Νηστίσιμο Κείκ Κακάο Πορτοκάλι Μπανάνα</a></li> <li><a href="../../../blog/2017/02/20_ο-πινακας-για-το-χωριο-παλιο.html">Ο πίνακας για το Χωριό Παλιό</a></li> <li><a href="../../../σκυλια/2017/01/08_η-κουμα.html">Η Κούμα</a></li> <li><a href="../../../σκυλια/2017/01/08_η-μπελλα-μανα.html">Η Μπέλλα μάνα</a></li> <li><a href="../../../αρθρα/2017/01/02_ο-μαστερ-ιπποκρατης.html">Ο μάστερ Ιπποκράτης</a></li> <li><a href="../../../εκπαιδευση/2016/12/22_η-μπελλα-και-η-λετα.html">Η Μπέλλα και η Λέτα</a></li> <li><a href="../../../προβατινικες-ταυτοτητες/2016/12/14_αντριανα.html">Αντριάνα</a></li> <li><a href="../../../αρθρογραφια-σχετικα-με-την-προβατινολογια/2016/12/13_η-γενια-του-2016.html">Η Γενιά του 2016</a></li> <li><a href="../../../ελιες/2016/12/13_ελαιοπαραγωγη-2016.html">Ελαιοπαραγωγή 2016</a></li> <li><a href="../../../δενδρα/2016/11/27_μπολιασμα.html">Μπόλιασμα</a></li> <li><a href="../../../προβατινικες-ταυτοτητες/2016/11/27_σκαλπι.html">Σκάλπι</a></li> <li><a href="../../../οινολογια/2016/11/10_vino-gyras.html">Vino Gyras</a></li> <li><a href="../../../ανθη-αρωματικα-βοτανα/2016/11/03_ματζουρανα.html">Ματζουράνα</a></li> <li><a href="../../../φαρμακα/2016/11/03_προγραμμα-εμβολιασμων.html">Πρόγραμμα Εμβολιασμών</a></li> <li><a href="../../../λαχανικα-οσπρια/2016/09/12_ημερολογιο-λαχανικων-σαλατικων-και-αλλων.html">Ημερολόγιο Λαχανικών, Σαλατικών και άλλων</a></li> <li><a href="../../../blog/2016/09/06_καλο-φθινοπωρο-2016.html">Καλό Φθινόπωρο 2016</a></li> <li><a href="../../../blog/2016/09/04_η-αχλαδομηλια-το-γιασεμι-η-βοκαμπιλια-και-η-ασπρη-τριανταφυλλια.html">Η αχλαδομηλιά. το γιασεμί, η βοκαμπίλια και η άσπρη τριανταφυλλιά</a></li> <li><a href="../../../γατες/2016/08/27_nero.html">Nero</a></li> <li><a href="../../../bostani/2016/08/27_επιθεση-απο-γουρουνια-και-βασκανια.html">Επίθεση απο γουρούνια και βασκανία</a></li> <li><a href="../../../κοτες-γαλοπουλες/2016/08/24_επιλογη-για-σφαξιμο.html">Επιλογή για Σφάξιμο</a></li> 
   </ul>
 </nav>
 
